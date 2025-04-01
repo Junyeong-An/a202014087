@@ -1,1 +1,1 @@
-public class Hello { public static void run() { System.out.println("hello world"); System.out.println("one"); } }
+public class Hello { public static void run() { System.out.println("hello world1"); System.out.println("one"); } }
